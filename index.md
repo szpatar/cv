@@ -9,7 +9,7 @@
 
 | About | Contact |
 | ---- | ----------- |
-| Frontend development enthusiast, with Javascript, React and Java interests.<br>Some experience from React pet projects, CSS and Javascript challenges from LeetCode, HackerRank and University Studies. | Phone: [+36 30 727 0483](tel:+36307270483) <br> Email: [szpatar@gmail.com](mailto:szpatar@gmail.com) <br> LinkedIn: [Márton Szpatár](https://www.linkedin.com/in/márton-szpatár-a75645267/) <br> GitHub: [szpatar](https://github.com/szpatar) <br> Location: [Pécs, Baranya, Hungary](https://goo.gl/maps/tRqNir3KMWbQkgqK8) |
+| Frontend development enthusiast, with JavaScript, React and Java interests.<br>Some experience from React pet projects, CSS and Javascript challenges from LeetCode, HackerRank and University Studies. | Phone: [+36 30 727 0483](tel:+36307270483) <br> Email: [szpatar@gmail.com](mailto:szpatar@gmail.com) <br> LinkedIn: [Márton Szpatár](https://www.linkedin.com/in/márton-szpatár-a75645267/) <br> GitHub: [szpatar](https://github.com/szpatar) <br> Location: [Pécs, Baranya, Hungary](https://goo.gl/maps/tRqNir3KMWbQkgqK8) |
 
 ## EDUCATION
 
